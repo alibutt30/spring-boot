@@ -1,0 +1,1 @@
+# This repository is for small example projects that i make while exploring Spring Boot
