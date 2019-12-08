@@ -27,9 +27,7 @@ In order to run it locally:
     
     ii. Use a curl command to verify that correct port is running.
     
-        ```
         $ curl -i -H "Accept: application/json" -H "Content-Type: application/json" http://127.0.0.1:9091/actuator/health
-        ```
         
 The specific profile `yml` files can be used to override/include different properties for different profiles.
 
