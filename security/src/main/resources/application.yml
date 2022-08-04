@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Security
+  profiles:
+    active: local
